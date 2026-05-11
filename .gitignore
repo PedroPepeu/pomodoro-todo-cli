@@ -1,0 +1,7 @@
+/target/
+/.codex/
+
+# Local exports / user data
+pomodoro-todo-export.txt
+*.pomodoro-todo-export.txt
+exports/
